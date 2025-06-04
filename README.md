@@ -39,8 +39,6 @@ A machine learning-based web application that predicts the likelihood of earthqu
    git clone https://github.com/your-username/earthquake-prediction.git
    cd earthquake-prediction
    
-   <br>
-   
 2 pip install -r requirements.txt
 <br>
 3 python app.py
